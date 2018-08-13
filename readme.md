@@ -137,4 +137,5 @@
 * Install and configure connect-flash
 * Add bootstrap alerts to header
 
-
+# Support Emoji Chatting
+* we can get to the chatting room for chatting
