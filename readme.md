@@ -139,3 +139,4 @@
 
 # Support Emoji Chatting
 * we can get to the chatting room for chatting
+* Supported by
